@@ -1,0 +1,39 @@
+.footer {
+  padding: 100px 0;
+  background-color: #2e2f42;
+}
+
+.footer-content {
+  display: flex;
+  align-items: flex-start;
+}
+
+.footer-info {
+  width: 264px;
+  margin-right: 120px;
+}
+
+.footer-logo {
+  margin-bottom: 16px;
+  color: #f4f4fd;
+}
+
+.description-text {
+  color: #f4f4fd;
+}
+
+.footer-socials-title {
+  margin-bottom: 16px;
+
+  font-weight: 500;
+  color: #fff;
+}
+
+.footer .socials {
+  gap: 16px;
+}
+
+.footer .socials-link:hover,
+.footer .socials-link:focus {
+  background-color: #31d0aa;
+}
