@@ -71,10 +71,17 @@ img {
   margin: -1px;
 }
 button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
   cursor: pointer;
+
   border-radius: 4px;
   padding: 16px 32px;
   border: 1px solid transparent;
+
+  font-family: inherit;
 }
 
 .logo {
